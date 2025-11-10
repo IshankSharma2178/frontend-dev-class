@@ -1,91 +1,117 @@
-<!-- Header Section -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#00C2FF;">Ishank Sharma</span></h1>
-<h3 align="center">🚀 Passionate Frontend Developer | Crafting Beautiful, Responsive, and Scalable Web Experiences</h3>
+# 🎨 Frontend Development Journey  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue" />
-  <img src="https://img.shields.io/badge/Code-React%20%7C%20Next.js%20%7C%20TypeScript-brightgreen" />
-  <img src="https://img.shields.io/badge/Loves-UI%2FUX%20Design-orange" />
-</p>
+Welcome to my **Frontend Development Repository** — a collection of my daily learning progress, assignments, and projects completed under the mentorship of **Mr. Deepak Prasad** and **Mr. Sahil Kumar**.  
+
+Each module is organized in **separate branches** for clarity and version control, tracking my progress through the course.
 
 ---
 
-## 🌟 About Me  
+## 📘 Course Overview  
 
-🎨 I'm a **Frontend Developer** who loves turning complex ideas into **interactive user interfaces**.  
-💡 I focus on **clean code**, **modern design**, and **smooth user experiences**.  
-🧠 Constantly learning and experimenting with **new frameworks, design systems, and performance optimizations**.  
+This course builds a strong foundation in **Frontend Web Development**, starting from the essentials of HTML and moving toward advanced **CSS concepts** such as **Flexbox**, **Grid**, **Animations**, and **Responsive Design**.  
 
-💼 Currently exploring:
-- ⚛️ **React**, **Next.js**, **TypeScript**, **Tailwind CSS**
-- 🎯 Frontend Architecture, Animations, and Accessibility
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend  
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
-
-### 🧩 Tools & Platforms  
-<div align="center">
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
+### 🚀 Learning Roadmap  
+1. Introduction to Web Development  
+2. HTML Fundamentals  
+3. Block & Inline Elements  
+4. Working with Iframes  
+5. CSS Basics  
+6. Flexbox and Grid  
+7. Box Model and Gradients  
+8. Pseudo-Classes, Transitions & Animations  
+9. Responsive Design with Media Queries  
 
 ---
 
-## ✨ Featured Projects  
+## 🧭 Repository Branches  
 
-| 🌐 Project | 🚀 Description | 🛠️ Stack |
-|:--|:--|:--|
-| [**Foodly** 🍔](https://yourprojectlink.com) | Swiggy-style food delivery UI with animations, cart, and checkout. | React, Firebase, Tailwind |
-| [**Portfolio v2** 💼](https://yourportfolio.com) | Modern responsive portfolio with Framer Motion animations. | Next.js, Tailwind CSS |
-| [**WeatherNow** ☁️](https://yourweatherapp.com) | Minimal weather dashboard fetching live data from API. | React, OpenWeatherMap API |
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true" />
-</p>
+| Branch | Description |
+|:-------|:-------------|
+| `main` | Central branch containing README and progress summary |
+| `intro-to-web-dev` | Basics of web development, 3-tier architecture, localhost & ports |
+| `html` | HTML tags, tables, headings, and basic page structures |
+| `html-block-inline` | Understanding block vs inline elements and layouts |
+| `html-iframes` | Embedding videos, maps, and external content using `<iframe>` |
+| `css` | CSS fundamentals – syntax, colors, selectors, and backgrounds |
+| `flex` | Creating flexible layouts using Flexbox |
+| `css-model` | Deep dive into box model, borders, padding, and gradients |
+| `css-classes` | Exploring pseudo-classes, transitions, and animations |
+| `responsive-css` | Responsive web design, filters, and media queries |
 
 ---
 
-## 🗣️ Let's Connect  
+## 📅 Assignment Submissions  
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="mailto:yourname@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+| Date | Assignment Title | Overview |
+|:------|:------------------|:----------|
+| Oct 9 | **Intro to Web Dev** | Designed a timetable using HTML `<table>` |
+| Oct 9 | **HTML Basics** | Created a simple webpage with core HTML elements |
+| Oct 10 | **Block & Inline Elements** | Demonstrated inline, block, and inline-block properties |
+| Oct 10 | **HTML Iframes** | Embedded YouTube and Google Maps using `<iframe>` |
+| Oct 16 | **CSS Basics** | Styled HTML pages using inline, internal, and external CSS |
+| Oct 16 | **Flexbox & Grid** | Developed responsive layouts using CSS Flexbox and Grid |
+| Oct 31 | **Box Model & Gradients** | Implemented calculator layout and gradient effects |
+| Oct 31 | **Pseudo Classes & Animations** | Added transitions, hover effects, and simple animations |
 
 ---
 
-<h3 align="center">💬 “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs</h3>
+## 📆 Daily Progress Journal  
+
+### 🗓 **October 9 – Introduction to Web Development**
+- Learned about 3-Tier Architecture: *Frontend, Backend, Database*  
+- Practiced HTML structure – headings, paragraphs, tables, and images  
+- **Task:** Design a timetable using `<table>`  
+
+### 🗓 **October 10 – HTML Block & Inline**
+- Explored block vs inline tags, lists, dropdowns, and input forms  
+- **Task:** Create a webpage demonstrating all element types  
+
+### 🗓 **October 13 – CSS Kickoff**
+- Studied CSS syntax, selectors, color models, and integration methods  
+- **Task:** Design a webpage using CSS margins, padding & positioning  
+
+### 🗓 **October 16 – Flexbox & Grid**
+- Practiced layout building with Flexbox and Grid  
+- Learned about transforms and transitions  
+- **Task:** Calculator layout using Grid  
+
+### 🗓 **October 30 – Box Model**
+- Reviewed borders, shadows, and gradient properties  
+- **Task:** Create calculator layout using Grid and gradients  
+
+### 🗓 **October 31 – Animations & Transitions**
+- Learned pseudo-classes and hover effects  
+- **Task:** Animate an object diagonally using CSS transforms  
+
+---
+
+## 🔮 Upcoming Modules  
+
+🧩 **Responsive Web Design**
+- Applying filters and breakpoints  
+- Implementing responsive layouts  
+- Using CSS media queries for all device sizes  
+
+---
+
+## ⚙️ Tools & Technologies  
+
+- 🧱 **HTML5 / CSS3**  
+- 🌀 **Flexbox & CSS Grid**  
+- 💻 **VS Code (with Live Server)**  
+- 🌐 **Git & GitHub**  
+
+---
+
+## 🙌 Acknowledgment  
+
+Heartfelt thanks to **Mr. Deepak Prasad** and **Mr. Sahil Kumar** for their constant support and guidance throughout the module.  
+Their practical assignments and sessions have made the learning process engaging and hands-on.  
+
+---
+
+## ✍️ Author  
+**Ishank Sharma**  
+*B.Tech Student, GLA University, Mathura*  
+**Course:** Frontend Development (HTML & CSS)  
+**Mentors:** Mr. Deepak Prasad & Mr. Sahil Kumar  
